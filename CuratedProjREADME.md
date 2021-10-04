@@ -1,4 +1,3 @@
-# Portfolio
 Work Samples
 
 ## Author
